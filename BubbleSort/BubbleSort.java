@@ -1,7 +1,5 @@
 package BubbleSort;
 
-import java.util.*;
-
 public class BubbleSort{
     public static void main(String[] args){
         int[] array = {5,1,4,2,8,9};
