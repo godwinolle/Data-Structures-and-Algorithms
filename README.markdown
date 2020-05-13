@@ -5,6 +5,6 @@
 ## Data Structures
 
 ## Algorithms
-*[Bubble Sort](https://github.com/godwinolle/Data-Structures-and-Algorithms/tree/master/BubbleSort)
+* [Bubble Sort](https://github.com/godwinolle/Data-Structures-and-Algorithms/tree/master/BubbleSort)
 #### Math
-*[Recursion Math](https://github.com/godwinolle/Data-Structures-and-Algorithms/tree/master/BubbleSort)
+* [Recursion Math](https://github.com/godwinolle/Data-Structures-and-Algorithms/tree/master/BubbleSort)
