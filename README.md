@@ -4,7 +4,7 @@
 📝Below are a sample of coding problems and solutions for the problems
 
 ## Data Structures
-
+* [LinkedList](https://github.com/godwinolle/Data-Structures-and-Algorithms/tree/master/LinkedList)
 ## Algorithms
 #### Sorting Algorithms
 * [Bubble Sort](https://github.com/godwinolle/Data-Structures-and-Algorithms/tree/master/BubbleSort)
